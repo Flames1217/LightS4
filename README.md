@@ -1,3 +1,5 @@
+![LightS4](https://socialify.git.ci/Viper373/LightS4/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fimg.viper3.top%2FLightS4%2Flogo.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+
 # 🌈 Light-S4·微光小溪
 
 <div align="center">
