@@ -1,4 +1,4 @@
-![LightS4](https://socialify.git.ci/Viper373/LightS4/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fimg.viper3.top%2FLightS4%2Flogo.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![LightS4](https://socialify.git.ci/Flames1217/LightS4/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fimg.viper3.top%2FLightS4%2Flogo.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 # 🌈 Light-S4·微光小溪
 
@@ -6,13 +6,13 @@
   <img src="public/icon-192x192.png" alt="微光小溪 Logo" width="120"/>
   <p>优雅而强大的 S3 兼容存储服务浏览器</p>
   <p>
-    <a href="https://github.com/Viper373/Light-S4/blob/main/LICENSE">
+    <a href="https://github.com/Flames1217/Light-S4/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/Viper373/Light-S4" alt="license"/>
     </a>
-    <a href="https://github.com/Viper373/Light-S4/releases">
+    <a href="https://github.com/Flames1217/Light-S4/releases">
       <img src="https://img.shields.io/github/v/release/Viper373/Light-S4" alt="release"/>
     </a>
-    <a href="https://github.com/Viper373/Light-S4/issues">
+    <a href="https://github.com/Flames1217/Light-S4/issues">
       <img src="https://img.shields.io/github/issues/Viper373/Light-S4" alt="issues"/>
     </a>
   </p>
