@@ -3,7 +3,6 @@
 # 🌈 Light-S4·微光小溪
 
 <div align="center">
-  <img src="public/icon-192x192.png" alt="微光小溪 Logo" width="120"/>
   <p>优雅而强大的 S3 兼容存储服务浏览器</p>
   <p>
     <a href="https://github.com/Flames1217/Light-S4/blob/main/LICENSE">
