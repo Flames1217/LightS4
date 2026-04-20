@@ -153,8 +153,7 @@ npm run start
 ### S3 存储配置
 | 变量名 | 必填 | 描述 | 示例值 |
 |-------|------|------|--------|
-| NEXT_PUBLIC_S3_ENDPOINT | ✅ | S3 服务端点 | https://s3.
-bitiful.net |
+| NEXT_PUBLIC_S3_ENDPOINT | ✅ | S3 服务端点 | https://s3.bitiful.net |
 | NEXT_PUBLIC_S3_REGION | ✅ | S3 区域 | cn-east-1 |
 | NEXT_PUBLIC_S3_ACCESS_KEY | ✅ | S3 访问密钥 | YOUR_ACCESS_KEY |
 | NEXT_PUBLIC_S3_SECRET_KEY | ✅ | S3 密钥 | YOUR-SECRET_KEY |
